@@ -1,0 +1,1 @@
+=== Comment Count ===Contributors: nickmomrikTags: comments, countStable tag: 1.2Tested up to: 4.4Counts the number of comments.== Installation ==1. Upload `comment-count.php` to the `/wp-content/plugins/` directory1. Activate the plugin through the 'Plugins' menu in WordPress1. Place `<?php mdv_comment_count(); ?>` in your templates.
